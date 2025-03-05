@@ -1,5 +1,5 @@
 <p align="left">
-  <i><b>From the forker:</b>  Inspired by <a href="https://github.com/patte/fly-tailscale-exit">patte's work</a>.  <a href="https://fly.io">Fly.io</a> doesn't support <code>docker-compose.yml</code>. This is an experiment in merging <a href="https://tailscale.com">tailscale</a> into the Homepage container build, creating a self-contained Dockerfile that's Fly-able and brings up Homepage as a tailscale 'machine' on your tailnet, optionally enabling exit node support. -- SjW</i>
+<i><b>From the forker:</b>  <a href="https://fly.io">Fly.io</a> doesn't support <code>docker-compose.yml</code>. This is an experiment in merging <a href="https://tailscale.com">tailscale</a> into the Homepage container build, creating a self-contained Dockerfile that's Fly-able and brings up Homepage as a tailscale 'machine' on your tailnet, optionally enabling exit node support. Inspired by <a href="https://github.com/patte/fly-tailscale-exit">patte's work</a>.  -- SjW</i>
 </p>
 
 <p align="center">
